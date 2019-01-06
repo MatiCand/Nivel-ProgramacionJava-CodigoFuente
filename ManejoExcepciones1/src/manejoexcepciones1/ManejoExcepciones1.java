@@ -2,7 +2,7 @@ package manejoexcepciones1;
 
 import domain.*;
 
-public class Main {
+public class ManejoExcepciones1 {
 
     public static void main(String[] args) {
         
